@@ -4,9 +4,9 @@ project:
 
 website:
   title: "Neil Bennett - PSCI 3200"
-   navbar:
+  navbar:
     left:
       - href: index.qmd
         text: Home
-      - href: Neil Bennett - Assignment 1.qmd
-        text: Research Question 
+      - href: Neil_Bennett_Assignment1.qmd
+        text: Research Question
