@@ -8,5 +8,5 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: Neil_Bennett_Assignment1.qmd
+      - href: NeilBennett_RQ.qmd
         text: Research Question
