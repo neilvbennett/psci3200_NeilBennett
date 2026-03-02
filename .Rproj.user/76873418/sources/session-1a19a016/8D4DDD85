@@ -1,9 +1,9 @@
 {
     "id": "8D4DDD85",
-    "path": "/Users/neilbennett/GitHub/psci3200_NeilBennett/_quarto.yml",
+    "path": "~/GitHub/psci3200_NeilBennett/_quarto.yml",
     "project_path": "_quarto.yml",
     "type": "yaml",
-    "hash": "2176965574",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1772491434951.0,
@@ -13,7 +13,7 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "11,31",
+        "cursorPosition": "10,26",
         "scrollLine": "0"
     },
     "folds": "",
