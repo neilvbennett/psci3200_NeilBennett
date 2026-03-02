@@ -1,0 +1,12 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Neil Bennett - PSCI 3200"
+   navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: Neil Bennett - Assignment 1.qmd
+        text: Research Question 
